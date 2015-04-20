@@ -1,0 +1,14 @@
+{
+  "name": "Cilindros",
+  "version": "0.0.1",
+  "authors": [
+    "Ullysses <ullyssgin@gmail.com>"
+  ],
+  "description": "Paquetes del frontend para el proyecto Cilindros",
+  "license": "MIT",
+  "homepage": "Cilindros.app",
+  "dependencies": {
+    "bootstrap": "~3.3.4",
+    "booststrap-material-design": "~0.3.0"
+  }
+}
