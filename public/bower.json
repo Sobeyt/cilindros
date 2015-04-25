@@ -9,6 +9,6 @@
   "homepage": "Cilindros.app",
   "dependencies": {
     "bootstrap": "~3.3.4",
-    "booststrap-material-design": "~0.3.0"
+    "bootstrap-material-design": "~0.3.0"
   }
 }
